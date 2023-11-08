@@ -1,0 +1,57 @@
+[
+  {
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png",
+    "name": "Jainil Patel",
+    "address": "55 Indraprasth Soc. Opp. Novino Tarsali Road, Vadodara"
+  },
+  {
+    "imageUrl": "https://www.onthisday.com/images/people/homer-simpson.jpg?w=360",
+    "name": "Homer Simpson",
+    "address": "742 Evergreen Terrace, SpringField, USA"
+  },
+  {
+    "imageUrl": "https://i.pinimg.com/736x/e8/a1/29/e8a129b57f877aeb554551f02ff0a4ee.jpg",
+    "name": "Bender",
+    "address": "Apartment 00100100, Manhattan, NY"
+  },
+  {
+    "imageUrl": "https://www.sosyncd.com/wp-content/uploads/2022/08/13-3.png",
+    "name": "Bart Simpson",
+    "address": "742 Evergreen Terrace, SpringField, USA"
+  },
+  {
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png",
+    "name": "David Brown",
+    "address": "222 Cedar Lane, Apartment 7, Hamletsville, State"
+  },
+  {
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png",
+    "name": "Grace Davis",
+    "address": "333 Birch Court, Suite 202, Townsville, State"
+  },
+  {
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png",
+    "name": "Oliver Miller",
+    "address": "444 Maple Drive, Building B, Citytown, State"
+  },
+  {
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png",
+    "name": "Sophia Wilson",
+    "address": "555 Redwood Lane, Apartment 4A, Villageton, State"
+  },
+  {
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png",
+    "name": "Liam Johnson",
+    "address": "666 Willow Place, Unit 3D, Townsville, State"
+  },
+  {
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png",
+    "name": "Ava White",
+    "address": "777 Spruce Road, Suite 303, Hamletsville, State"
+  },
+  {
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/08/08/09/17/avatar-1577909_1280.png",
+    "name": "Noah Lee",
+    "address": "888 Poplar Street, Building C, Cityville, State"
+  }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="None Selected"
+        android:id="@+id/selected_items_text_view"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:layout_marginBottom="100sp"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/show_dialog_box"
+        android:text="Show Dialog box"
+        />
+</LinearLayout>
