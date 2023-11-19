@@ -15,7 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31" >
-        <activity android:name=".Practical6"
+        <activity android:name=".Activity_DB"
             android:exported="true">
             <intent-filter>
                 <action
